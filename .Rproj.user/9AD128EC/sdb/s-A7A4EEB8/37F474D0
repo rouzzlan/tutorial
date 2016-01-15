@@ -1,0 +1,18 @@
+{
+    "contents" : "1+1",
+    "created" : 1452856728333.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4249267174",
+    "id" : "37F474D0",
+    "lastKnownWriteTime" : 1452856765,
+    "path" : "~/Development/R/toutorial/first.R",
+    "project_path" : "first.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
